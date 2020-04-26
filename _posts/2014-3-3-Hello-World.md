@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I am up and running!
+title: _posts/2020-04-26-I-am-up-and-running!.md
 published: true
 ---
 
@@ -15,4 +15,3 @@ Here is my lovely wife, Emma!
 
 Here is little Win!
 ![winnie.jpg]({{site.baseurl}}/images/winnie.jpg)
-
