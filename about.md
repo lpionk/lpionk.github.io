@@ -15,4 +15,4 @@ I am from Nashville, and Emma is from Louisville. While we live in McLean, VA ri
 
 ### Contact me
 
-[email@domain.com](mailto:lpionk@gmail.com)
+[l.a.pionk@gmail.com](mailto:l.a.pionk@gmail.com)
