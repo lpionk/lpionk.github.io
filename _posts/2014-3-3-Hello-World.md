@@ -14,3 +14,5 @@ Here is my lovely wife, Emma!
 ![luke.jpg]({{site.baseurl}}/images/luke.jpg)
 
 Here is little Win!
+![winnie.jpg]({{site.baseurl}}/images/winnie.jpg)
+
