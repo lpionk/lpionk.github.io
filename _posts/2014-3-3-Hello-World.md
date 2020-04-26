@@ -1,6 +1,6 @@
 ---
 layout: post
-title: _posts/2020-04-26-I-am-up-and-running!.md
+title: I am up and running!
 published: true
 ---
 
