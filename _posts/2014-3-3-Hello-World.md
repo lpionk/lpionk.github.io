@@ -11,7 +11,7 @@ My name is Luke Pionk, but that is unimportant. What is important is that my wif
 Link to Winnie's fav song: [Jam out with Win](https://www.youtube.com/watch?v=GGXzlRoNtHU)
 
 Here is my lovely wife, Emma!
-![_config.yml]!({{ site.baseurl }}/images/luke.png)
+![_config.yml]({{ site.baseurl }}/images/luke.png)
 
 Here is little Win!
 
