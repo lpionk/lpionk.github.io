@@ -9,7 +9,7 @@ name: Luke Pionk
 description: Finance Analyst with Amazon
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/lpionk/lpionk.github.io/master/images/luke.jpeg
+avatar: ![luke.jpg]({{site.baseurl}}/images/luke.jpg)
 
 #
 # Flags below are optional
